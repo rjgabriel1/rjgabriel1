@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React and Python**
+- 💬 Ask me about **React**
 
 - ⚡ Fun fact **When I'm not coding, I'm probably yelling at a football match!**
 
