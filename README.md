@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Android Apps with react native**
 
-- 🌱 I’m currently learning **React Native and Flask**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React and Python**
 
