@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native and Flask**
 
-- 💬 Ask me about **JavaScript and Python**
+- 💬 Ask me about **React and Python**
 
 - ⚡ Fun fact **When I'm not coding, I'm probably yelling at a football match!**
 
