@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jefferson</h1>
 
-- 🔭 I’m currently working on **Android Apps with react native**
+- 🔭 I’m currently working on **various projects**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently expanding my skills in **development**
 
 - 💬 Ask me about **React**
 
-- ⚡ Fun fact **When I'm not coding, I'm probably yelling at a football match!**
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rjgabriel) 
